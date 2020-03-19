@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+}
+
+.container{
+  position: relative;
+  width: 600px;
+  margin: auto;
+  background-color: grey;
+  padding: 20px;
+  border: blue 3px solid;
+  border-radius: 10px;
+}
+
+table, td, th{
+  border: 1px solid black;
+  width: 575px;
+  margin: auto;
+  color: black;
+  background-color: white;
+  padding: 10px;
+}
+
+
+#feedback{
+  background-color: yellow;
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.treasure{
+    position:absolute;
+    left:50px;
+    top:150;
+}
+
