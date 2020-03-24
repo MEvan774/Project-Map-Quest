@@ -2,7 +2,13 @@
 gamedeveloper :[Milan Breuren]
 
 ### Korte omschrijving van de game
-...
+Je bevind je in een afgelegen plek met een huis.
+In het huis zit een schatkist verborgen, probeer alle schatten te vinden en de kist zelf!!
+
+
+
+
+
 
 ---
 #### Producten Werkproces
